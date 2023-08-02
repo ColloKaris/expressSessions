@@ -1,0 +1,24 @@
+{
+  "name": "expresssessions",
+  "version": "1.0.0",
+  "description": "Working with Sessions in Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColloKaris/expressSessions.git"
+  },
+  "author": "Collins Kariuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColloKaris/expressSessions/issues"
+  },
+  "homepage": "https://github.com/ColloKaris/expressSessions#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3"
+  }
+}
